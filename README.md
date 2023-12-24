@@ -9,3 +9,6 @@ TargetNavigator
 - Shows either metric or imperial units
 
 In case you have problems or find errors, please file a new issue here in this github repository.
+
+
+[TargetNavigator!](https://i.ibb.co/xf7km3W/Target-Navigator.png)
