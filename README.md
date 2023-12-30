@@ -10,5 +10,4 @@ TargetNavigator
 
 In case you have problems or find errors, please file a new issue here in this github repository.
 
-
-![TargetNavigator](https://i.ibb.co/N1CZW0L/Navigator-Overview.png)
+![TargetNavigator](https://i.ibb.co/XWnnVGP/Navigator-Overview.png)
