@@ -7,7 +7,8 @@ TargetNavigator
 - Shows the current location, altitude and speed
 - Shows the target location, weather, temperature, air pressure, sunrise and sunset
 - Shows either metric or imperial units
+- Set target location with one button to current location
 
 In case you have problems or find errors, please file a new issue here in this github repository.
 
-![TargetNavigator](https://i.ibb.co/XWnnVGP/Navigator-Overview.png)
+![TargetNavigator](https://i.ibb.co/sbmZw5p/Navigator-Overview.png)
