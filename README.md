@@ -8,7 +8,10 @@ TargetNavigator
 - Shows the target location, weather, temperature, air pressure, sunrise and sunset
 - Shows either metric or imperial units
 - Set target location with one button to current location
+- Store/Restore locations in/from iCloud
+- Reverse geocode the current location and get info about street, zip, city, country, timezone, daylight saving and coordinates
+- Reverse geocoded address will be stored in device clipboard so that one can paste it to mails, messages or documents
 
 In case you have problems or find errors, please file a new issue here in this github repository.
 
-![TargetNavigator](https://i.ibb.co/sbmZw5p/Navigator-Overview.png)
+![TargetNavigator](https://i.ibb.co/PmxN06T/Navigator-Overview.png)
