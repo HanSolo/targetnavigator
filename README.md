@@ -9,9 +9,11 @@ TargetNavigator
 - Shows either metric or imperial units
 - Set target location with one button to current location
 - Store/Restore locations in/from iCloud
+- Use Apple Maps to route you to a selected target location
 - Reverse geocode the current location and get info about street, zip, city, country, timezone, daylight saving and coordinates
 - Reverse geocoded address will be stored in device clipboard so that one can paste it to mails, messages or documents
+- Search for locations and center map on searched location
 
 In case you have problems or find errors, please file a new issue here in this github repository.
 
-![TargetNavigator](https://i.ibb.co/PmxN06T/Navigator-Overview.png)
+![TargetNavigator](https://i.ibb.co/4VJHPj2/Navigator-Overview.png)
