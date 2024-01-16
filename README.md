@@ -18,4 +18,4 @@ TargetNavigator
 
 In case you have problems or find errors, please file a new issue here in this github repository.
 
-![TargetNavigator](https://i.ibb.co/7WkGSWz/Navigator-Overview.png)
+![TargetNavigator](https://i.ibb.co/rs9M5gr/Navigator-Overview.png)
