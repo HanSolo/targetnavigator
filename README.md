@@ -15,7 +15,8 @@ TargetNavigator
 - Search for locations and center map on searched location
 - Supported coordinate format: Decimal Degree DD, Degree Decimal Minutes DDM, Degree Minutes Seconds DMS
 - Visualization of sunrise, sunset and current position of sun for current location
+- Button to show distance and time on shortest route by car or by walk
 
 In case you have problems or find errors, please file a new issue here in this github repository.
 
-![TargetNavigator](https://i.ibb.co/rs9M5gr/Navigator-Overview.png)
+![TargetNavigator](https://i.ibb.co/7Vdd1jf/Navigator-Overview.png)
