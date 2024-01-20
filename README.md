@@ -16,7 +16,8 @@ TargetNavigator
 - Supported coordinate format: Decimal Degree DD, Degree Decimal Minutes DDM, Degree Minutes Seconds DMS
 - Visualization of sunrise, sunset and current position of sun for current location
 - Button to show distance and time on shortest route by car or by walk
+- Share current target location
 
 In case you have problems or find errors, please file a new issue here in this github repository.
 
-![TargetNavigator](https://i.ibb.co/7Vdd1jf/Navigator-Overview.png)
+![TargetNavigator](https://i.ibb.co/6gf1vvp/Navigator-Overview.png)
