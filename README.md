@@ -17,7 +17,10 @@ TargetNavigator
 - Visualization of sunrise, sunset and current position of sun for current location
 - Button to show distance and time on shortest route by car or by walk
 - Share current target location
+- Copy current address or address coordinates
+- Show ephimeral data like sunrise, sunset, blue and golden hours
+- Filter saved locations by distance
 
 In case you have problems or find errors, please file a new issue here in this github repository.
 
-![TargetNavigator](https://i.ibb.co/6gf1vvp/Navigator-Overview.png)
+![TargetNavigator](https://i.ibb.co/H7fKQ5p/Navigator-Overview.png)
