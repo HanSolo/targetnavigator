@@ -20,7 +20,8 @@ TargetNavigator
 - Copy current address or address coordinates
 - Show ephimeral data like sunrise, sunset, blue and golden hours
 - Filter saved locations by distance
+- Take photos that contain the current coordinates, date, time and direction of view
 
 In case you have problems or find errors, please file a new issue here in this github repository.
 
-![TargetNavigator](https://i.ibb.co/H7fKQ5p/Navigator-Overview.png)
+![TargetNavigator](https://i.ibb.co/d6PvDBZ/Navigator-Overview.png)
